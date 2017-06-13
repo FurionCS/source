@@ -37,7 +37,7 @@ public class MyHashMap<K,V> implements  MyMap<K,V>{
     }
     //快速存储
     public V put(K k, V v) {
-        //判断是否扩容 这里有问题
+        //判断是否扩容
         if(userSize>defaultAddSizeFactor*defaultLength){
             //进行两倍扩容
             up2Size();
