@@ -1,7 +1,7 @@
 # source
 源码阅读与手写
 
-##hashMap
+## hashMap
 关键点：
  - defaultLength (默认数组大小2^n)
  - defaultAddSizeFactor (负载因子)
