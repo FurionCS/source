@@ -3,7 +3,7 @@ package com.source.springmvc.annotation;
 import java.lang.annotation.*;
 
 /**
- * @Description:${Description}
+ * @Description:模拟spring mvc中的Autowired
  * @Author : Mr.Cheng
  * @Date:2017/7/2
  */
